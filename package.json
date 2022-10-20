@@ -23,7 +23,7 @@
     "react-native-grid-component": "^2.0.1",
     "react-native-loading-spinner-overlay": "^1.1.0",
     "react-native-modal-selector": "^2.0.0",
-    "react-native-reanimated": "^1.7.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-safe-area-context": "^0.7.3",
     "react-native-screens": "^2.2.0",
     "react-native-simple-toast": "^1.0.0",
